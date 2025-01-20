@@ -1,6 +1,8 @@
 # Laboratorio 1
 ## Jesus Alberto Jauregui Conde
 
+## Parte 1
+
 ### Punto 1
 Crea un repositorio localmente.
 ![](/assets/1.png)
