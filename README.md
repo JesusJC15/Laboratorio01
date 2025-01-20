@@ -22,7 +22,7 @@ Averigua para que sirve y como se usan estos comandos git add y git commit -m
 
 ## Punto 5
 - Crea un repositorio en blanco (vacio) en GitHub.
-![](/5.png)
+![](/assets/5.png)
 
 ## Punto 6
 - Configura el repositorio local con el repositorio remoto.
@@ -34,3 +34,11 @@ Averigua para que sirve y como se usan estos comandos git add y git commit -m
 ![](/assets/6.6.png)
 
 ## Punto 7
+- Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3.
+![](/assets/7.1.png)
+![](/assets/7.2.png)
+![](/assets/7.3.png)
+
+## Punto 8
+- Configura el correo en git local de manera correcta.
+![](/assets/8.png)
