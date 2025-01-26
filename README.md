@@ -116,6 +116,7 @@ Como funciona:
 ### Punto 3
 Creen una rama cada uno y suban sus cambios.
 ![](/assets/punto3/3.1.png)
+![](/assets/punto3/imagen3.1.png)
 ![](/assets/punto3/3.2.png)
 ![](/assets/punto3/3.3.png)
 
