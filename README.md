@@ -50,3 +50,23 @@ Averigua para que sirve y como se usan estos comandos git add y git commit -m
 ### Punto 9
 - Vuelve a subir los cambios y observa que todo este bien en el repositorio remoto (en GitHub).
 ![](/assets/punto1/9.png)
+
+## Parte 2
+
+### Punto 1
+- Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
+- Owner Jesus Alberto Jauregui Conde
+- Colaborador Natalia Espitia Espinel
+
+### Punto 2
+- El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1.
+![](/assets/punto2/2.1.png)
+![](/assets/punto2/2.2.png)
+
+### Punto 3
+- El owner le comparte la url via Teams al colaborador.
+![](/assets/punto2/3.png)
+
+### Punto 4
+- El colaborador acepta la invitación al repositorio.
+![](/assets/punto2/4.png)
