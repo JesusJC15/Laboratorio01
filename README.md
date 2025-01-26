@@ -113,3 +113,4 @@ Como funciona:
 
 ### Punto 3
 Creen una rama cada uno y suban sus cambios.
+Imagenes: 
