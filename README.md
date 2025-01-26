@@ -70,3 +70,7 @@ Averigua para que sirve y como se usan estos comandos git add y git commit -m
 ### Punto 4
 - El colaborador acepta la invitación al repositorio.
 ![](/assets/punto2/4.png)
+
+### Punto 5
+- Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
+- Jesus realizo cambios.
