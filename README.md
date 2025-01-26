@@ -123,6 +123,10 @@ Creen una rama cada uno y suban sus cambios.
 
 ### Punto 4
 Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master.
+Pull Request Natalia 
+![](/assets/punto3/imagen4.1.png)
+![](/assets/punto3/imagen4.2.png)
+![](/assets/punto3/imagen4.3.png)
 ![](/assets/punto3/4.1.png)
 ![](/assets/punto3/4.2.png)
 ![](/assets/punto3/4.3.png)
