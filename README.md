@@ -72,9 +72,44 @@ Averigua para que sirve y como se usan estos comandos git add y git commit -m
 ![](/assets/punto2/4.png)
 
 ### Punto 5
-- Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
-- JesusJ realizo cambios en el README.
+Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
+- Jesus realizo cambios en el README.
 
 ### Punto 6
-- ¿Que sucedió?
-- Solo a un integrante en este caso JesusJ le dejo realizar los cambios.
+¿Que sucedió?
+- Solo a un integrante en este caso Jesus le dejo realizar los cambios.
+
+### Punto 7
+La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos <<< === y >>> (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
+
+### Punto 8
+Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
+- Jesus realizo mas cambios en el README.
+
+## Parte 3
+
+### Punto 1
+¿Hay una mejor forma de trabajar con git para no tener conflictos?
+
+- Hacer commits pequeños y frecuentes: Esto reduce la probabilidad de conflictos grandes y facilita la revisión de cambios.
+- Sincronizar a menudo: Mantén tu rama actualizada con la rama principal regularmente usando git pull o git fetch seguido de git merge.
+- Usar ramas temáticas: Desarrolla nuevas características o arreglos en ramas separadas. Esto organiza mejor el trabajo y facilita la integración.
+- Revisar y probar antes de hacer merge: Asegúrate de que los cambios sean revisados y probados antes de integrarlos a la rama principal.
+- Comunicación constante: Coordina con tu equipo para estar al tanto de los cambios que cada uno está realizando.
+- Resolver conflictos localmente: Si encuentras un conflicto, resuélvelo en tu entorno local antes de empujar los cambios.
+
+### Punto 2
+¿Qué es y como funciona el Pull Request?
+- Es una solicitud para que los cambios sean revisados e integrados en la rama principal o en cualquier otra rama de destino del repositorio. Es especialmente útil para trabajar en equipo, ya que permite una revisión colaborativa del código.
+
+Como funciona:
+- Se crea una rama: Empieza creando una nueva rama en tu repositorio local para hacer los cambios. Por ejemplo, si estás trabajando en una nueva característica, crearías una rama llamada feature/nueva-caracteristica.
+- Haz tus cambios y commits: Realiza tus modificaciones en esta rama y confirma (commit) tus cambios regularmente.
+- Sube tu rama al repositorio remoto: Cuando hayas terminado, sube (push) tu rama al repositorio remoto.
+- Abre un Pull Request: En la plataforma de gestión de código como GitHub, crea un Pull Request desde tu rama hacia la rama de destino (por lo general, la main o develop). Proporciona una descripción clara de los cambios.
+- Revisión del código: Los miembros de tu equipo revisarán el código propuesto. Pueden dejar comentarios, sugerencias y aprobar o pedir cambios adicionales.
+- Revisión y correcciones: Responde a los comentarios y realiza los cambios necesarios. Tus commits adicionales se agregarán al Pull Request.
+- Merge: Una vez que todos están satisfechos con los cambios, alguien con permisos de merge integrará tu Pull Request en la rama de destino. Esto actualizará la rama de destino con los cambios propuesto.
+
+### Punto 3
+Creen una rama cada uno y suban sus cambios.
