@@ -1,5 +1,6 @@
 # Laboratorio 1
 ## Jesus Alberto Jauregui Conde
+## Natalia Espitia Espinel
 
 ## Parte 1
 
@@ -122,3 +123,21 @@ Creen una rama cada uno y suban sus cambios.
 
 ### Punto 4
 Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master.
+![](/assets/punto3/4.1.png)
+![](/assets/punto3/4.2.png)
+![](/assets/punto3/4.3.png)
+![](/assets/punto3/4.4.png)
+![](/assets/punto3/4.5.png)
+![](/assets/punto3/4.6.png)
+![](/assets/punto3/4.7.png)
+![](/assets/punto3/4.8.png)
+![](/assets/punto3/4.9.png)
+![](/assets/punto3/4.10.png)
+
+### Punto 5
+Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github).
+![](/assets/punto3/5.1.png)
+![](/assets/punto3/5.2.png)
+![](/assets/punto3/5.3.png)
+![](/assets/punto3/5.4.png)
+![](/assets/punto3/5.5.png)
