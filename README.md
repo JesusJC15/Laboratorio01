@@ -113,9 +113,13 @@ Como funciona:
 
 ### Punto 3
 Creen una rama cada uno y suban sus cambios.
+<<<<<<< HEAD
 ![](/assets/punto3/3.1.png)
 ![](/assets/punto3/3.2.png)
 ![](/assets/punto3/3.3.png)
 
 ### Punto 4
 Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master.
+=======
+Imagenes: 
+>>>>>>> a830fce4d1322a255a68be8adede669d29746837
