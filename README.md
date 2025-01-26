@@ -73,4 +73,8 @@ Averigua para que sirve y como se usan estos comandos git add y git commit -m
 
 ### Punto 5
 - Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
-- Jesus realizo cambios.
+- Jesus realizo cambios en el README.
+
+### Punto 6
+- ¿Que sucedió?
+- Solo a un integrante en este caso Jesus le dejo realizar los cambios.
