@@ -1,4 +1,4 @@
-# Laboratorio 1
+# Introducción GIT
 ## Jesus Alberto Jauregui Conde
 ## Natalia Espitia Espinel
 
